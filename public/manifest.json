@@ -1,21 +1,11 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Johnh3 Blog",
+  "short_name": "johnh3 blog",
   "icons": [
     {
-      "src": "/favicon.png",
-      "type": "image/png",
-      "sizes": "32x32"
-    },
-    {
-      "src": "/favicon-128x128.png",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "/favicon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "/favicon.gif",
+      "type": "image/gif",
+      "sizes": "96x96"
     }
   ],
   "theme_color": "#000000",

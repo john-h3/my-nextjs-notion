@@ -291,7 +291,7 @@ export function NotionPage({
         footer={footer}
       />
 
-      <GitHubShareButton />
+      {config.shareButton && <GitHubShareButton />}
     </>
   )
 }

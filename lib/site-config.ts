@@ -18,6 +18,8 @@ export interface SiteConfig {
   zhihu?: string
   mastodon?: string
 
+  showGitHubShareButton?: boolean,
+
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
   defaultPageCoverPosition?: number | null

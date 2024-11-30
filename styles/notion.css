@@ -88,6 +88,7 @@
 
 .notion-collection-card {
   overflow: visible;
+  transition-duration: unset;
 }
 
 .notion-collection-card-cover {

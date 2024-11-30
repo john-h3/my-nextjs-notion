@@ -1,0 +1,17 @@
+{
+	"name": "Debian",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "debian:12.8-slim",
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	"features": {
+		"ghcr.io/john-h3/devc_features/debian-registry-cn:1": {},
+		"ghcr.io/john-h3/devc_features/basic-tools:1": {},
+		"ghcr.io/john-h3/devc_features/node:1": {}
+	}
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+	// Configure tool-specific properties.
+	// "customizations": {},
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}

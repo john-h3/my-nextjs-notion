@@ -51,6 +51,7 @@ export function PageHead({
 
       <meta name='robots' content='index,follow' />
       <meta property='og:type' content='website' />
+      <meta name="google-site-verification" content="pM7kxLmFWFLk8hDotZrhFfUC4F8TWWvBrwEQ01mHyNM" />
 
       {site && (
         <>

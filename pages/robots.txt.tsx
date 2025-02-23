@@ -26,6 +26,7 @@ Disallow: /post/*
 Disallow: /tags/*
 Disallow: /api/get-tweet-ast/*
 Disallow: /api/search-notion
+Disallow: /ads.txt
 
 Sitemap: ${host}/sitemap.xml
 `)
